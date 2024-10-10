@@ -108,6 +108,8 @@ Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guide
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="30" alt="Terraform" style="max-width: 100%; padding: 8px;"></a>
 </div>
 
+#
+
 <div align="left">
   <a href="https://discord.com/realabdulkhaliq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -118,15 +120,16 @@ Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guide
   <a href="https://medium.com/@thenewagedevelopers" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <br />
   <a href="https://stackoverflow.com/users/7775489/abdul-khaliq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
 
-###
+#
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realabdulkhaliq&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dracula&hide_border=false&order=2" height="280" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=realabdulkhaliq&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dracula&hide_border=false&order=2" height="280" alt="languages graph"  />
+  <br>
 <img src="https://streak-stats.demolab.com?user=realabdulkhaliq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realabdulkhaliq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realabdulkhaliq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
