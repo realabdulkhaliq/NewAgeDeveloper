@@ -49,7 +49,9 @@ https://www.credly.com/users/realabdulkhaliq
 ![github foundation](https://github.com/user-attachments/assets/abfc5fc2-8ff3-4ebd-8145-251646f0c3b3)
 
 Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guides)
-#
+# Certification Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43151da3-5472-454b-be2d-c7999581611f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Skills
 <div align="left" dir="auto">
 
