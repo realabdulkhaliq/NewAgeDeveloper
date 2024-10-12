@@ -49,8 +49,15 @@ https://www.credly.com/users/realabdulkhaliq
 ![github foundation](https://github.com/user-attachments/assets/abfc5fc2-8ff3-4ebd-8145-251646f0c3b3)
 
 Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guides)
-# Certification Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43151da3-5472-454b-be2d-c7999581611f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+# Skills Badges by Credly
+
+![google-ai-essentials](https://github.com/user-attachments/assets/f2b2ff55-9626-40ac-9e62-a5cb551ae97d)
+
+![github-advanced-security](https://github.com/user-attachments/assets/75dc1857-1ae5-405b-95d4-8b2a725d1bd1)![github-foundations](https://github.com/user-attachments/assets/2e7ee73b-b6a9-4b56-be3c-5e6ca33c41ac)
+
+![python-essentials-1 1 (1)](https://github.com/user-attachments/assets/d3f7ffb8-c407-41ee-852c-3b8ae9bef627)![introduction-to-data-science](https://github.com/user-attachments/assets/f8d10ed6-3eb8-4d28-9cfe-3e23cde1fde9)
+
+
 
 ### Skills
 <div align="left" dir="auto">
