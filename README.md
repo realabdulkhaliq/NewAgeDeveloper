@@ -56,6 +56,7 @@ Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guide
 ![github-advanced-security](https://github.com/user-attachments/assets/75dc1857-1ae5-405b-95d4-8b2a725d1bd1)![github-foundations](https://github.com/user-attachments/assets/2e7ee73b-b6a9-4b56-be3c-5e6ca33c41ac)
 
 ![python-essentials-1 1 (1)](https://github.com/user-attachments/assets/d3f7ffb8-c407-41ee-852c-3b8ae9bef627)![introduction-to-data-science](https://github.com/user-attachments/assets/f8d10ed6-3eb8-4d28-9cfe-3e23cde1fde9)
+![introduction-to-cybersecurity](https://github.com/user-attachments/assets/e163f2f8-992c-4117-b2fe-c15c36a19cd9)
 
 
 
