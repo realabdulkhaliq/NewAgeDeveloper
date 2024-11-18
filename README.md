@@ -60,8 +60,7 @@ Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guide
 
 #### Verify @
 https://www.credly.com/users/realabdulkhaliq  <br>
-https://www.credly.com/users/hafizabdulkhaliq <br>
-https://www.credly.com/users/enggabdulkhaliq
+https://www.credly.com/users/hafizabdulkhaliq
 
 ### Skills
 <div align="left" dir="auto">
