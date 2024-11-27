@@ -57,6 +57,9 @@ Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guide
 
 ![python-essentials-1 1 (1)](https://github.com/user-attachments/assets/d3f7ffb8-c407-41ee-852c-3b8ae9bef627)![introduction-to-data-science](https://github.com/user-attachments/assets/f8d10ed6-3eb8-4d28-9cfe-3e23cde1fde9)
 ![introduction-to-cybersecurity](https://github.com/user-attachments/assets/bc45c030-42b0-4632-b98e-7c67844f985d)![ccna-introduction-to-networks](https://github.com/user-attachments/assets/01acfc87-2e6d-495c-8086-acc120d59ffa)
+![network-technician-career-path](https://github.com/user-attachments/assets/29184d06-da6b-4879-8f02-d6e22e9aabd7)![data-analytics-essentials](https://github.com/user-attachments/assets/6023c375-ff5e-4329-928f-20c552b70556)
+
+
 
 #### Verify @
 https://www.credly.com/users/realabdulkhaliq  <br>
