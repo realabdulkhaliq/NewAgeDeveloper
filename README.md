@@ -49,6 +49,12 @@ https://www.credly.com/users/realabdulkhaliq
 ![github foundation](https://github.com/user-attachments/assets/abfc5fc2-8ff3-4ebd-8145-251646f0c3b3)
 
 Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guides)
+
+## Google Soft Skills Program
+
+![google-soft-skills-program-real-abdulkhaliq-certified-by-google-pafla](https://github.com/user-attachments/assets/11cf488b-138a-4c87-b321-e5a5b2bc5339)
+
+
 # Skills Badges by Credly
 
 ![google-ai-essentials](https://github.com/user-attachments/assets/f2b2ff55-9626-40ac-9e62-a5cb551ae97d)
