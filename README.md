@@ -39,8 +39,6 @@ My diverse skill set includes:
 
 ## Microsoft Certified: Azure AI Fundamentals
 <img width="428" alt="AI - 900 Certificate" src="https://github.com/user-attachments/assets/cdceeb98-e7c1-47b2-aaec-9ae31484c824">
-![Microsoft Certified Azure AI Fundamentals_AbdulKhaliq-certified-by-Microsoft](https://github.com/user-attachments/assets/cdceeb98-e7c1-47b2-aaec-9ae31484c824)
-![Microsoft Certified Azure AI Fundamentals_AbdulKhaliq-certified-by-Microsoft](<img width="428" alt="AI - 900 Certificate" src="https://github.com/user-attachments/assets/cdceeb98-e7c1-47b2-aaec-9ae31484c824">)
 <br />
 https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D162F?sharingId=AC95975E94E7442A
 
