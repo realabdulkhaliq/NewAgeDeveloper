@@ -38,7 +38,7 @@ My diverse skill set includes:
 - [x] Dockor & Kubernetes 
 
 ## Microsoft Certified: Azure AI Fundamentals
-<img width="428" alt="AI - 900 Certificate" src="https://github.com/user-attachments/assets/cdceeb98-e7c1-47b2-aaec-9ae31484c824">
+<img width="800" alt="AI - 900 Certificate" src="https://github.com/user-attachments/assets/cdceeb98-e7c1-47b2-aaec-9ae31484c824">
 <br />
 https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D162F?sharingId=AC95975E94E7442A
 
