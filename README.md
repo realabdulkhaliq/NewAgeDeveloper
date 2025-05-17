@@ -29,6 +29,7 @@ My diverse skill set includes:
 - [x] Computer Science Fundamentals
 - [x] Beginners Python
 - [x] Advanced Python
+- [x] Python Professional Developer 
 - [x] Numpy, Pandas, Data Visualization
 - [x] Python API Development with FastAPI
 - [x] Version Control System (Git, Github)
