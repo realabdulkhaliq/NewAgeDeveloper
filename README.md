@@ -7,7 +7,7 @@
 
 I am Abdul Khaliq, a Cloud Native Applied Generative AI Engineer (GenEng) with extensive certifications and expertise. I hold the **Microsoft Certified: Azure AI Fundamentals** & **Google AI Essentials** certification, along with **Cisco Netacad Cybersecurity** and **Python** certifications, and I am also **GitHub Certified: Cloud Security Engineer**. I have Professional Certification: **Google IT Automation with Python** which consists of six courses. Now I'm Professional Python Developer. Currently, I focus on leveraging Python and FastAPI with Docker and Azure Kubernetes Service to integrate cutting-edge artificial intelligence features into applications. 
 
-I am also a professional **Modern Application Developer & Architect** and a passionate **WordPress & Shopify Developer** dedicated to providing quality services. I offer solutions to help businesses grow and become more profitable.
+I am also a __professional__ **Modern Application Developer & Architect** and a passionate **WordPress & Shopify Developer** dedicated to providing quality services. I offer solutions to help businesses grow and become more profitable.
 
 As a __Modern App Developer__, I excel in front-end design and development using Next.js, Tailwind CSS, Bootstrap, and Chakra UI. I also have extensive experience with _Headless CMS_, integrating it seamlessly with Next.js to build modern, scalable web applications. I can further enhance your business through targeted digital marketing strategies.
 
