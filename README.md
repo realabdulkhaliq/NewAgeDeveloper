@@ -44,11 +44,11 @@ My diverse skill set includes:
 https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D162F?sharingId=AC95975E94E7442A
 
 ## Google Certified: Google IT Automation with Python
-<img width="800" alt="Professional Certification: Google IT Automation with Python" src="https://github.com/user-attachments/files/20642778/Coursera.Google.IT.Automation.with.Python.pdf">
-<br />
+
 <img width="792" alt="Coursera Google IT Automation with Python" src="https://github.com/user-attachments/assets/69a7ec7b-f03f-4591-9bc2-8b0fce93cf16" />
 <br />
-
+<img width="800" alt="Professional Certification: Google IT Automation with Python" src="https://github.com/user-attachments/files/20642778/Coursera.Google.IT.Automation.with.Python.pdf">
+<br />
 
 ## GitHub Certified: Cloud Security Engineer & GitHub Foundations
 https://www.credly.com/users/realabdulkhaliq
