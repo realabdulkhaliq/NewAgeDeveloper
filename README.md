@@ -46,7 +46,8 @@ https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D
 ## Google Certified: Google IT Automation with Python
 <img width="800" alt="Professional Certification: Google IT Automation with Python" src="https://github.com/user-attachments/files/20642778/Coursera.Google.IT.Automation.with.Python.pdf">
 <br />
-[Coursera Google IT Automation with Python.pdf](https://github.com/user-attachments/files/20642778/Coursera.Google.IT.Automation.with.Python.pdf)
+<img width="792" alt="Coursera Google IT Automation with Python" src="https://github.com/user-attachments/assets/69a7ec7b-f03f-4591-9bc2-8b0fce93cf16" />
+<br />
 
 
 ## GitHub Certified: Cloud Security Engineer & GitHub Foundations
