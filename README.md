@@ -2,7 +2,7 @@
 ![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966 - Copy](https://github.com/realabdulkhaliq/NewAgeDeveloper/assets/26642972/90edc7c2-45ad-48d8-9008-df68f54356ba)
 
 # ABDUL KHALIQ
-### Solopreneur | Microsoft Certified: Generative AI Engineer, GitHub Certified: Cloud Security Engineer | Cloud Native Applied Generative AI Engineer (GenEng) | WordPress, Headless CMS & Next JS Modern App Developer & Architect | Boost Businesses by Developing Blazing Fast 🚀 Modern & Responsive ⏩ Apps
+### Solopreneur | Microsoft Certified Generative AI Engineer, GitHub Certified: Cloud Security Engineer | Cloud Native Applied Generative AI Engineer (GenEng) | WordPress, Headless CMS & Next JS Modern App Developer & Architect | Boost Businesses by Developing Blazing Fast 🚀 Modern & Responsive ⏩ Apps
 
 
 I am Abdul Khaliq, a Cloud Native Applied Generative AI Engineer (GenEng) with extensive certifications and expertise. I hold the **Microsoft Certified: Azure AI Fundamentals** & **Google AI Essentials** certification, along with **Cisco Netacad Cybersecurity** and **Python** certifications, and I am also **GitHub Certified: Cloud Security Engineer**. I have Professional Certification: **Google IT Automation with Python** which consists of six courses. Now I'm Professional Python Developer. Currently, I focus on leveraging Python and FastAPI with Docker and Azure Kubernetes Service to integrate cutting-edge artificial intelligence features into applications. 
