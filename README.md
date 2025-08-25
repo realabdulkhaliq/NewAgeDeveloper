@@ -21,7 +21,7 @@ My diverse skill set includes:
 - **Headless CMS**: Contentful, Sanity, and Strapi.
 - **CMS**: WordPress, WP Customization, WP Migration,WP Theme Installation & Editing, WP Theme Development, Shopify.
 - **Artificial Intelligence**: Generative AI, OpenAI API, OpenAI Chat Completions API, OpenAI Responses API, OpenAI Actions Development, OpenAPI Specification.
-
+- **AI Products Development**: Chat Bot Development, Agents Development.
 - **Cloud Native Development**: Azure AI Certified, Docker, Docker Compose, Serverless Containers.
 - **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
 - **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, SQL Model, NoSQL, ORM
