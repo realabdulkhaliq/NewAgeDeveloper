@@ -37,7 +37,7 @@ My diverse skill set includes:
 - [x] ML Ops
 - [x] Cloud Fundamentals (Azure)
 - [x] Math & Statistics for AI
-- [x] Dockor
+- [x] Linux OS, Dockor
 
 ## Microsoft Certified: Azure AI Fundamentals
 <img width="800" alt="AI - 900 Certificate" src="https://github.com/user-attachments/assets/cdceeb98-e7c1-47b2-aaec-9ae31484c824">
