@@ -1,4 +1,4 @@
-
+hi
 ![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966 - Copy](https://github.com/realabdulkhaliq/NewAgeDeveloper/assets/26642972/90edc7c2-45ad-48d8-9008-df68f54356ba)
 
 # ABDUL KHALIQ
@@ -17,7 +17,8 @@ My comprehensive WordPress services include development, optimization, responsiv
 My diverse skill set includes:
 
 - **Front-End Design & Development**: Proficient in TypeScript, Next.js, Tailwind CSS, Chakra UI, Material UI, and Bootstrap.
-- **Back-End Development**: Skilled in Python, FastAPI, TypeScript, Next.js, and React.js, GitHub Actions.
+- **Back-End Development**: Skilled in Python, FastAPI, TypeScript, Next.js, and React.js.
+- **CICD**: GitHub Actions.
 - **Headless CMS**: Contentful, Sanity, and Strapi.
 - **CMS**: WordPress, WP Customization, WP Migration,WP Theme Installation & Editing, WP Theme Development, Shopify.
 - **Artificial Intelligence**: Generative AI, OpenAI API, OpenAI Chat Completions API, OpenAI Responses API, OpenAI Actions Development, OpenAPI Specification.
